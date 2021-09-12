@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Nick Allegretti's WebDev2 Page
 
 You can use the [editor on GitHub](https://github.com/nickallegator/webdev2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
